@@ -39,3 +39,4 @@ int main()
     cout << "\n \t Kota : " << mhs.alamat.kota;
     cout << "\n Umur : " << mhs.umur;
 }
+
